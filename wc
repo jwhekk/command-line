@@ -1,3 +1,0 @@
-With wc you can count the number of lines(-l), words(-w) and characters(-c) in a given file.
-Without options its gives all 3.
-wc -l file1 gives the number of lines in file1.
