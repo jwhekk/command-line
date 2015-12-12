@@ -1,0 +1,3 @@
+With grep you can search files based on certain patterns. It is also useful when you feed it with the output of an other program.
+grep someword outputs all the lines from the files in the current directory with someword in it. With the option -r you can search through the current directory and all the  subdirectories.
+ps x | grep bash gives you the occurences of running bash shells
