@@ -1,0 +1,4 @@
+The mv command is used to move file from one directory to an other directory.
+Like: mv file1 ../files/file1
+It can also be used to rename files.
+Like: mv file_old file_new
